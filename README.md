@@ -92,7 +92,7 @@ If this policy changes materially, we will update the "Last updated" date above.
 
 For privacy questions or data deletion requests:
 
-**Email:** [YOUR_EMAIL_HERE]
+**Email:** [db4471@nyu.edu]
 
 ---
 
